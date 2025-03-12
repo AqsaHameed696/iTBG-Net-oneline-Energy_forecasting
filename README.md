@@ -1,6 +1,6 @@
 # iTBG-Net: Enhancing Short-Term Renewable Energy Forecasting with Incremental Deep Learning
 
-One-click reproducibility: Clone, update paths, and run the notebook on Kaggle or Google Colab.
+**One-click reproducibility: Clone, update paths, and run the notebook on Kaggle or Google Colab.**
 
 ## Overview
 This repository implements an incremental deep learning framework for short-term renewable energy forecasting. The project was originally developed as a Kaggle Jupyter Notebook using **Python 3.10.12**. It leverages online incremental learning techniques along with a hybrid deep learning architecture that combines TCN, GRU, and LSTM layers. Additionally, several models including CNN, non-incremental LSTM, and xLSTM are implemented.
