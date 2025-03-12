@@ -6,8 +6,10 @@
 This repository implements an incremental deep learning framework for short-term renewable energy forecasting. The project was originally developed as a Kaggle Jupyter Notebook using **Python 3.10.12**. It leverages online incremental learning techniques along with a hybrid deep learning architecture that combines TCN, GRU, and LSTM layers. Additionally, several models including CNN, non-incremental LSTM, and xLSTM are implemented.
 
 ## Dataset
-The dataset is openly accessible on Kaggle:
+
+Download the dataset from the CSV file in the "Dataset Folder" or access it directly on Kaggle:  
 [Integrated Energy Management and Forecasting Dataset](https://www.kaggle.com/datasets/aftabhussaincui/integrated-energy-management-and-forecasting)
+
 
 > **Important:**  
 > After downloading the dataset from the provided Google link, update the dataset path in the code.  
