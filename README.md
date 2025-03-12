@@ -44,7 +44,7 @@ Download the dataset from the CSV file in the **"Dataset Folder"** or access it 
 
 ## Methodology
 - **Incremental Updates & Data Streaming:**  
-  The dataset is partitioned into small streams to simulate online incremental learning. The model is retrained over **21 incremental updates**, with **100 epochs per update**.
+  The dataset is partitioned into small streams to simulate online incremental learning. The model is retrained over **26 incremental updates**, with **100 epochs per update**.
   
 - **Replay Buffer:**  
   A replay buffer mechanism is used to mix past data with new incoming data, ensuring continuous learning from both historical and current information.
