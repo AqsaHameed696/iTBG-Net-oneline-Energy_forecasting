@@ -7,7 +7,7 @@ This repository implements an incremental deep learning framework for short-term
 
 ## Dataset
 
-Download the dataset from the CSV file in the **"Dataset Folder"** or access it directly on Kaggle:  
+Download the dataset from the CSV file in the **"Integrated Energy Management and Forecasting Dataset.csv"** or access it directly on Kaggle:  
 [Integrated Energy Management and Forecasting Dataset](https://www.kaggle.com/datasets/aftabhussaincui/integrated-energy-management-and-forecasting)
 
 
