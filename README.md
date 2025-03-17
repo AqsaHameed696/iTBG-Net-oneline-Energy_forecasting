@@ -65,8 +65,7 @@ A comparison modeling section is included (details to be updated) to show perfor
 The complete source code and project configuration are available on GitHub:  
 [GitHub Repo](https://github.com/Aftab-Hussain302/iTGB-Net-online-learning.git)
 
-## License
-This work is licensed under the [MIT License](LICENSE).
+
 
 ## Acknowledgments
 Thank you for exploring the iTBG-Net project. Contributions and feedback are highly appreciated!
